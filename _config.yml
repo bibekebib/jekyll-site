@@ -36,6 +36,8 @@ plugins:
 - jekyll-seo-tag
 markdown: kramdown
 permalink: pretty
+
+disqus_shortname: nirav-2
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

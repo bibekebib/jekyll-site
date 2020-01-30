@@ -1,0 +1,20 @@
+.header{
+    text-align: center;
+    padding:30px;
+    height: 3em;
+    background:rgb(155, 39, 39); 
+    word-spacing:7px;
+    
+}
+.header a{
+    color: antiquewhite;
+}
+.baby{
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.babby{
+    float: right;
+    font-size: 25px;
+}

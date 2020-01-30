@@ -1,8 +1,11 @@
 ---
 layout: post
 title:  "When the light’s bit shady"
+author: "Bibek Chalise"
 date:   2020-01-30 11:35:27 +0545
 categories: Fiction
+tags: [poetry, fiction]
+feature-img: /image/unnamed.jpg
 ---
 When the light’s bit shady
 

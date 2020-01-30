@@ -1,0 +1,41 @@
+
+.links ul li{
+  float: left;
+  text-decoration: none;
+  }
+footer{
+    color: rgb(255, 255, 255);
+    background: rgb(0, 0, 0);
+    font-size: 22px;
+    text-align: center;
+}
+  
+.links ul a{
+    text-decoration: none;
+    text-align: center;
+    height: 70px;
+    width: 70px;
+    line-height: 70px;
+    font-size: 32px;
+    margin: 0 10px;
+
+    display:inline-block;
+    border-radius: 50%;
+    position:relative;
+    overflow:hidden;
+  }
+
+a:active{
+    color: aliceblue;
+}
+footer .links a:hover{
+    
+    background: rgb(4, 134, 102);
+}
+footer .links a:visited{
+    color: bisque;
+}
+  
+
+
+  

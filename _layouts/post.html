@@ -1,0 +1,30 @@
+{% include header.html %}
+<link rel="stylesheet" href="/css/post.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<div class="posts">
+<title>{{page.title }}</title>
+
+    <i style='font-size:24px'> {{ page.date | date: "%B %-d, %Y" }}
+    </i>        
+        <br>
+        <h2>{{page.title }}</h2>
+        <b>
+            <i class="fa fa-user" aria-hidden="true">  {{ page.author }}</i>
+            <br></b>
+        <hr>
+        <!-- {{page.feature-img}} -->
+       
+           {{ content }}
+    
+        
+    
+        <hr>
+        {% include disqus.html %}
+</div>
+
+
+
+
+{% include footer.html %}
+
+</html>
