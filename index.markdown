@@ -10,7 +10,12 @@ layout: home
   
   </head>
   <body>
-    <h1>Hello World!</h1>
-    <blockquote> Hi! There from Another world </blockquote>
+  
+<blockquote><h1> Hello World. </h1>
+<blockquote> <h2> How you doing? </h2>
+<blockquote> <h3> Welcome to my Blog. </h3>
+</blockquote>
+</blockquote>
+</blockquote>
   </body>
 </html>

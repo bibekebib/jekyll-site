@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "When the light’s bit shady"
+title:  "When the light’s bit shady."
 author: "Bibek Chalise"
 date:   2020-01-30 11:35:27 +0545
 categories: Fiction
@@ -15,7 +15,7 @@ My land is a slum of unprotected souls
 
 Where your traces, protected with rubber.
 
-
+<br>
 
 I mastered to lure your hunger
 
@@ -25,6 +25,7 @@ Irony, it gets a different name
 
 You head up and I lost in day life-line.
 
+<br>
 
 
 Small me, hoped for an arm to rest
@@ -35,7 +36,7 @@ Rotten I ate were enough to live,
 
 Fresh I now eat tears me down to hell.
 
-
+<br>
 
 Sometimes, a hope abides on a full moon
 
@@ -45,7 +46,7 @@ Canopies build stoned with affection
 
 Which darkness pours the art, I reside.
 
-
+<br>
 
 The world rounds, the stars twinkle
 

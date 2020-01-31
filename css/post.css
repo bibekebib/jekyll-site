@@ -2,4 +2,12 @@
    
     width: 55%;
     margin-left: 22%;
+    font-style: Bitter;
+    font-size: 20px;
+    text-align: justify;
+    font-family: 'Source Code Pro', monospace;
+}
+
+.pagetitle{
+    font-family: 'Poiret One', cursive;
 }
