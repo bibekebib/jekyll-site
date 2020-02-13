@@ -1,7 +1,8 @@
 .posts{
    
-    width: 55%;
-    margin-left: 22%;
+    width: 740px;
+    margin: auto;
+    /* margin-left: 22%; */
     font-style: Bitter;
     font-size: 20px;
     text-align: justify;
@@ -10,4 +11,16 @@
 
 .pagetitle{
     font-family: 'Poiret One', cursive;
+}
+
+@media screen and (max-width:740px){
+    .posts{
+        width: auto;
+        font-style: Bitter;
+        font-size: 20px;
+        text-align: justify;
+        font-family: 'Source Code Pro', monospace;
+    }
+    
+
 }
