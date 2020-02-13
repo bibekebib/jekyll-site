@@ -20,6 +20,8 @@
      
         
     
+        <b>Tags</b><br>
+        {{ page.tags.| join:' | '| append: '|' }} 
         <hr>
         {% include disqus.html %}
 </div>
