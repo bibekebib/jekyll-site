@@ -15,7 +15,7 @@
 
 @media screen and (max-width:740px){
     .posts{
-        width: auto;
+        width: 100%;
         font-style: Bitter;
         font-size: 20px;
         text-align: justify;

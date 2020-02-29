@@ -12,7 +12,9 @@ A letter to my first love
 
 <i>
 Lately, I have started using Instagram. I am sorry, but I stalk your profile each day and it is the part of my life.
-</i>                                                       
+</i>                        
+
+                          ..............                               
 
 Dear my first love,
 
@@ -54,19 +56,16 @@ Like another crazy stalker 
 May be I am, but why I am?
 The reason you will never know.
 
-
+                       .................
 
 <i>
-
-
 "If I fell off tomorrow would you still love me?
 
-
+<i>
 If I didn't smell so good would you still hug me?
 
-
+<i>
 If I locked up and sentenced to a quarter-century,
 
-
+<i>
 Could I count on you to be there to support me mentally?"
-</i>
