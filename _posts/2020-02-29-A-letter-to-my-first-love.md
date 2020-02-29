@@ -12,10 +12,11 @@ A letter to my first love
 
 <i>
 Lately, I have started using Instagram. I am sorry, but I stalk your profile each day and it is the part of my life.
-</i>                                                       ---
+</i>                                                       
 
-<blockquote>
 Dear my first love,
+
+
 "I love you", "I really do like you". Dozens of poems and tens of stories of you and me, we just the characters of those tales, hundreds of love quotes in your name. I remember each one of those I used to keep inscribing with black ink on your name. How precious each word associated with your name, just the way you are precious to me. I hope those words were enough to describe the feelings and emotions I had in my heart for you.
 
 
@@ -52,7 +53,7 @@ And I am here stalking your profile
 Like another crazy stalker 
 May be I am, but why I am?
 The reason you will never know.
-</blockquote>
+
 
 
 <i>
