@@ -5,12 +5,14 @@ date:   2020-02-29 8:03:27 +0545
 categories: Fiction, Stories, Love
 tags: [Fiction, stories, love, first love, emotions]
 ---
-<b>
+<h3>
 A letter to my first love
-<b>
+</h3>
+
+
 <i>
 Lately, I have started using Instagram. I am sorry, but I stalk your profile each day and it is the part of my life.
-<i>                                                       ---
+</i>                                                       ---
 
 <blockquote>
 Dear my first love,
@@ -56,7 +58,13 @@ The reason you will never know.
                                                                   ---
 <i>
 "If I fell off tomorrow would you still love me?
+
+
 If I didn't smell so good would you still hug me?
+
+
 If I locked up and sentenced to a quarter-century,
+
+
 Could I count on you to be there to support me mentally?"
-<i>
+</i>
