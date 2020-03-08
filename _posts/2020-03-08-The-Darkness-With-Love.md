@@ -17,7 +17,7 @@ Just the way, you reside inside me.
 
                     -------
 
-The silky arm of never lasting love
+The silky arm of ever lasting love
 
 Extending from mine to your’s heart
 
