@@ -4,8 +4,8 @@
   text-decoration: none;
   }
 footer{
-    color: rgb(255, 255, 255);
-    background: rgb(0, 0, 0);
+    color: rgb(236, 5, 5);
+    background: rgb(201, 231, 170);
     font-size: 22px;
     text-align: center;
 }
@@ -18,7 +18,7 @@ footer{
     line-height: 70px;
     font-size: 32px;
     margin: 0 10px;
-
+    color: rgb(0, 0, 0);
     display:inline-block;
     border-radius: 50%;
     position:relative;
@@ -26,14 +26,14 @@ footer{
   }
 
 a:active{
-    color: aliceblue;
+    color: rgb(0, 117, 219);
 }
 footer .links a:hover{
     
-    background: rgb(4, 134, 102);
+    background: rgb(240, 119, 6);
 }
 footer .links a:visited{
-    color: bisque;
+    color: rgb(187, 0, 0);
 }
   
 
